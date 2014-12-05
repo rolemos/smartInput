@@ -1,0 +1,4 @@
+smartInput
+==========
+
+SmartInput test
